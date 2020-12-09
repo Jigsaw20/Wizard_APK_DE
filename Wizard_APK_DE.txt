@@ -1,0 +1,18 @@
+id="plugin.program.JigSaw"
+version="1.9"
+zip="  "
+
+name="Bumblebee" 
+version="1.0" 
+url="https://www.magentacloud.de/api/sharelink/download?id=   "
+minor="http://" 
+gui="https://" 
+kodi="18.9" 
+theme="http://" 
+icon="https://ia601408.us.archive.org/35/items/icon_20201024/icon.png" 
+fanart="https://ia601506.us.archive.org/17/items/fanart_20201024/fanart.jpg" 
+preview="http://" 
+adult="no" 
+info="http://" 
+description="JigSaw V1.0"
+
