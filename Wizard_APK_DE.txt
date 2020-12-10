@@ -1,10 +1,10 @@
 id="plugin.program.JigSawDE"
 version="1.9"
-zip="  "
+zip="https://bit.ly/2JK21Bz"
 
-name="Bumblebee" 
+name="Bumblebee German" 
 version="1.0" 
-url="https://www.magentacloud.de/api/sharelink/download?id=   "
+url="https://www.magentacloud.de/api/sharelink/download?id=hSTosqlg"
 minor="http://" 
 gui="https://" 
 kodi="18.9" 
