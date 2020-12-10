@@ -1,4 +1,4 @@
-id="plugin.program.JigSaw"
+id="plugin.program.JigSawDE"
 version="1.9"
 zip="  "
 
@@ -15,4 +15,5 @@ preview="http://"
 adult="no" 
 info="http://" 
 description="JigSaw V1.0"
+
 
